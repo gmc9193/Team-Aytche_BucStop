@@ -1,10 +1,9 @@
 # Tetris
-### A Team Redacted Project
+### Team Index Three
 ### Members:
-> Kurt Brewer, Josh Rucevice, Charlie Shahan,
-> Ethan Webb, Ethan Hensley, Patrick Vergason, Bryson Brandon
+> James Park, Andrew Garcia, Trent Allen, Jacob Perdue, Blake Lawson
 #### CSCI 4350
-#### Fall 2023, East Tennessee State University
+#### Fall 2024, East Tennessee State University
 
 ### Overview:
 This is a microservice that returns Tetris game info to Bucstop

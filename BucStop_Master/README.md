@@ -47,13 +47,16 @@ BucStop folder.
 		* This folder contains the resources used by the project, 
 			including images, the javascript games, the icons, etc.
 ### Associated Repositories
-* [Microservice Repo](https://github.com/Redacted-Team/4350_002_Fall23_MicroService)
-* [API Gateway](https://github.com/Redacted-Team/4350_002_Fall23_APIGateway)
-* [Tetris Microservice](https://github.com/Redacted-Team/4350_002_Fall23_Tetris)
-* [Snake Microservice](https://github.com/Redacted-Team/4350_002_Fall23_Snake)
-* [Pong Microservice](https://github.com/Redacted-Team/4350_002_Fall23_Pong)
+* BucStop [(Docker)](https://hub.docker.com/repository/docker/jamesispark/bucstop/general)
+* API Gateway [(Github)](https://github.com/JamesIsPark/Team-3-BucStop_APIGateway) [(Docker)](https://hub.docker.com/repository/docker/jamesispark/bucstop_apigateway/general)
+* Tetris Microservice [(Github)](https://github.com/JamesIsPark/Team-3-BucStop_Tetris) [(Docker)](https://hub.docker.com/repository/docker/jamesispark/bucstop_microtetris/general)
+* Snake Microservice [(Github)](https://github.com/JamesIsPark/Team-3-BucStop_Snake) [(Docker)](https://hub.docker.com/repository/docker/jamesispark/bucstop_microsnake/general)
+* Pong Microservice [(Github)](https://github.com/JamesIsPark/Team-3-BucStop_Pong) [(Docker)](https://hub.docker.com/repository/docker/jamesispark/bucstop_micropong/general)
 
 ### Help
 For more documentation on how to run locally and how to set up deployments, see the google docs below:
+* [Team 3 Video Playlist](https://youtube.com/playlist?list=PLdKGHNSFJEmrBMR3d4kA9DXI1v2c9nOyh&feature=shared) (Most Recent Video Playlist)
 * [Team Redacted Video Playlist](https://youtube.com/playlist?list=PLxsGO-QGipWmVzxFkVbA-o6BUW5eRdk3H&si=a7jHaNBgdTtXgoJ4)
 * [Running Locally](https://docs.google.com/document/d/1gfUpjZNfqWyv1ohUW1IaS8fOhXp0hOx6tFQVXBADa8Q/edit?usp=sharing)
+* [How to Deploy](https://docs.google.com/document/d/1VElVP9HrOafxdM0HfD9jjM8HvnzBSpXhhq1O9VtTTug/edit?usp=sharing)
+* [Docker Container Connection Guide](https://docs.google.com/document/d/1BG6NYuTRV_gfk3Ikoqa4RAy9elF-OqTWQiil_mJjB_0/edit?tab=t.0#heading=h.lm1a4xopofc) (Running with Docker)
